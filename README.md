@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - [repo](https://github.com/MuneneCalvin/Time-tracking-dashboard)
-- [live]()
+- [live](https://munenecalvin.github.io/Time-tracking-dashboard/)
 
 ## My process
 
